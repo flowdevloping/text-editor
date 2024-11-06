@@ -1,11 +1,13 @@
 # Text Editor
 
+A web-based text editor application built with HTML, CSS, and JavaScript, offering essential text modification features similar to popular applications like Word or OpenOffice.
+</br>
+</br>
+
 <div align="center">
   <img src="https://github.com/flowdevloping/text-editor/blob/master/TextEditor.png" width="500">
 </div>
 </br>
-
-A web-based text editor application built with HTML, CSS, and JavaScript, offering essential text modification features similar to popular applications like Word or OpenOffice.
 
 ## Features
 
