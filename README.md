@@ -11,7 +11,7 @@ A web-based text editor application built with HTML, CSS, and JavaScript, offeri
 
 ## Features
 
-- **Text Formatting**: Bold, superscript, subscript, and various alignment options (left, center, right, justify).
+- **Text Formatting**: Bold, italic, superscript, subscript, and various alignment options (left, center, right, justify).
 - **List Management**: Ability to create numbered and bulleted lists.
 - **Undo/Redo**: Easily undo and redo actions.
 - **Link Creation**: Add or remove hyperlinks.
